@@ -60,7 +60,7 @@ door-to &nbsp;door delivery, and advanced track &amp; trace capability.&nbsp;</p
 <div class="col-lg-8 ms-auto me-auto">
 <div class="bannerLeft">
 <div class="h1 animated" data-animation="fadeInDown">From Highways to Your Doorstep</div>
-<div class="animated" data-animation="fadeInUp"><p>Seamless road freight solutions connecting every corner of India.</p>
+<div class="animated" data-animation="fadeInUp"><p>Seamless road freight solutions connecting every corner of the globe.</p>
 </div>
 <a href="/track-now" title="Track Your Shipment" class="btn btn-primary no-bord animated" data-animation="zoomIn">Track Your Shipment</a>
 <a href="/contact" target="_blank" title="Get an Instant Quote" class="btn btn-secondary animated" data-animation="zoomIn">Get an Instant Quote</a>
